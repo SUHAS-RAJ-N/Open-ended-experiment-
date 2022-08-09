@@ -5,7 +5,6 @@
 
 
 import java.io.*;
-
 class GFG
 {
 	
@@ -29,8 +28,6 @@ class GFG
 		}
 		return res;
 	}
-	
-	// driver program
 	public static void main (String[] args)
 	{
 		System.out.println(russianPeasant(18, 1));
@@ -39,3 +36,6 @@ class GFG
 }
 
 
+OUTPUT:
+18
+240
