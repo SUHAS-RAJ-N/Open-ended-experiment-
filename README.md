@@ -37,5 +37,5 @@ class GFG
 
 
 OUTPUT:
-18
+18,
 240
